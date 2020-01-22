@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    text-shadow: gray;
+    color: blue;
+}
+
+li {
+    list-style-image: url('https://krsiimar.github.io/discussions/discussion2/images/tinyM.png')
+}
